@@ -1,0 +1,13 @@
+{
+  "name": "Test col",
+  "symbol": "TESTCOL",
+  "uri": "anylinkhere.com",
+  "sfbp": 1000,
+  "update_auth": "97s91qvMSUY5SbbxFsMpW2eeCg7Y7zGyFeEkfyLHujnK",
+  "creator_1": "97s91qvMSUY5SbbxFsMpW2eeCg7Y7zGyFeEkfyLHujnK",
+  "creator_1_cut": 100,
+  "merkle_tree": "9Z4MqYmyx7EPFqoXb9u4YJhGGXuCjpK9XKswYoT4Q8GV",
+  "collection_key": "4FCNBeeZsUQuHsNRaBSdMJfK1FJsTaU1vX3NkQsfFdiU",
+  "auth_pda": "Cdb2YmaQfJ1NGm5wNKYc4hKcMrGhr9fGzAJ6qYge993W",
+  "config_key": "AyT6jRrZNw9XsL7PeVHdVtAVxwG9KnkQL5zTTgTiJTRR"
+}
