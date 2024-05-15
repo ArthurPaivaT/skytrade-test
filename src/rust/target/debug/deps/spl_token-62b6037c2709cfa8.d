@@ -1,0 +1,10 @@
+/Users/arthurtavares/skytrade/firstproject/src/rust/target/debug/deps/libspl_token-62b6037c2709cfa8.rmeta: /Users/arthurtavares/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-4.0.0/src/lib.rs /Users/arthurtavares/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-4.0.0/src/error.rs /Users/arthurtavares/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-4.0.0/src/instruction.rs /Users/arthurtavares/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-4.0.0/src/native_mint.rs /Users/arthurtavares/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-4.0.0/src/processor.rs /Users/arthurtavares/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-4.0.0/src/state.rs
+
+/Users/arthurtavares/skytrade/firstproject/src/rust/target/debug/deps/spl_token-62b6037c2709cfa8.d: /Users/arthurtavares/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-4.0.0/src/lib.rs /Users/arthurtavares/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-4.0.0/src/error.rs /Users/arthurtavares/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-4.0.0/src/instruction.rs /Users/arthurtavares/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-4.0.0/src/native_mint.rs /Users/arthurtavares/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-4.0.0/src/processor.rs /Users/arthurtavares/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-4.0.0/src/state.rs
+
+/Users/arthurtavares/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-4.0.0/src/lib.rs:
+/Users/arthurtavares/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-4.0.0/src/error.rs:
+/Users/arthurtavares/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-4.0.0/src/instruction.rs:
+/Users/arthurtavares/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-4.0.0/src/native_mint.rs:
+/Users/arthurtavares/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-4.0.0/src/processor.rs:
+/Users/arthurtavares/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-4.0.0/src/state.rs:

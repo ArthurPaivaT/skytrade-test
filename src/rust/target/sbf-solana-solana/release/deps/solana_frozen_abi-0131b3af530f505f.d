@@ -1,0 +1,10 @@
+/Users/arthurtavares/skytrade/firstproject/src/rust/target/sbf-solana-solana/release/deps/solana_frozen_abi-0131b3af530f505f.rmeta: /Users/arthurtavares/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.16.25/src/lib.rs /Users/arthurtavares/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.16.25/src/abi_digester.rs /Users/arthurtavares/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.16.25/src/abi_example.rs /Users/arthurtavares/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.16.25/src/hash.rs
+
+/Users/arthurtavares/skytrade/firstproject/src/rust/target/sbf-solana-solana/release/deps/libsolana_frozen_abi-0131b3af530f505f.rlib: /Users/arthurtavares/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.16.25/src/lib.rs /Users/arthurtavares/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.16.25/src/abi_digester.rs /Users/arthurtavares/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.16.25/src/abi_example.rs /Users/arthurtavares/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.16.25/src/hash.rs
+
+/Users/arthurtavares/skytrade/firstproject/src/rust/target/sbf-solana-solana/release/deps/solana_frozen_abi-0131b3af530f505f.d: /Users/arthurtavares/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.16.25/src/lib.rs /Users/arthurtavares/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.16.25/src/abi_digester.rs /Users/arthurtavares/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.16.25/src/abi_example.rs /Users/arthurtavares/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.16.25/src/hash.rs
+
+/Users/arthurtavares/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.16.25/src/lib.rs:
+/Users/arthurtavares/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.16.25/src/abi_digester.rs:
+/Users/arthurtavares/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.16.25/src/abi_example.rs:
+/Users/arthurtavares/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.16.25/src/hash.rs:

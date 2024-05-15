@@ -1,0 +1,10 @@
+/Users/arthurtavares/skytrade/firstproject/src/rust/target/debug/deps/libspl_pod-d14f6adf2751c112.rmeta: /Users/arthurtavares/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-pod-0.1.0/src/lib.rs /Users/arthurtavares/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-pod-0.1.0/src/bytemuck.rs /Users/arthurtavares/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-pod-0.1.0/src/error.rs /Users/arthurtavares/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-pod-0.1.0/src/optional_keys.rs /Users/arthurtavares/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-pod-0.1.0/src/primitives.rs /Users/arthurtavares/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-pod-0.1.0/src/slice.rs
+
+/Users/arthurtavares/skytrade/firstproject/src/rust/target/debug/deps/spl_pod-d14f6adf2751c112.d: /Users/arthurtavares/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-pod-0.1.0/src/lib.rs /Users/arthurtavares/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-pod-0.1.0/src/bytemuck.rs /Users/arthurtavares/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-pod-0.1.0/src/error.rs /Users/arthurtavares/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-pod-0.1.0/src/optional_keys.rs /Users/arthurtavares/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-pod-0.1.0/src/primitives.rs /Users/arthurtavares/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-pod-0.1.0/src/slice.rs
+
+/Users/arthurtavares/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-pod-0.1.0/src/lib.rs:
+/Users/arthurtavares/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-pod-0.1.0/src/bytemuck.rs:
+/Users/arthurtavares/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-pod-0.1.0/src/error.rs:
+/Users/arthurtavares/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-pod-0.1.0/src/optional_keys.rs:
+/Users/arthurtavares/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-pod-0.1.0/src/primitives.rs:
+/Users/arthurtavares/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-pod-0.1.0/src/slice.rs:

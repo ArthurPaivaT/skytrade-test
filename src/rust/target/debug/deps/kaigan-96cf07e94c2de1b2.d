@@ -1,0 +1,9 @@
+/Users/arthurtavares/skytrade/firstproject/src/rust/target/debug/deps/libkaigan-96cf07e94c2de1b2.rmeta: /Users/arthurtavares/.cargo/registry/src/index.crates.io-6f17d22bba15001f/kaigan-0.2.4/src/lib.rs /Users/arthurtavares/.cargo/registry/src/index.crates.io-6f17d22bba15001f/kaigan-0.2.4/src/types/mod.rs /Users/arthurtavares/.cargo/registry/src/index.crates.io-6f17d22bba15001f/kaigan-0.2.4/src/types/prefix_string.rs /Users/arthurtavares/.cargo/registry/src/index.crates.io-6f17d22bba15001f/kaigan-0.2.4/src/types/prefix_vec.rs /Users/arthurtavares/.cargo/registry/src/index.crates.io-6f17d22bba15001f/kaigan-0.2.4/src/types/remainder_vec.rs
+
+/Users/arthurtavares/skytrade/firstproject/src/rust/target/debug/deps/kaigan-96cf07e94c2de1b2.d: /Users/arthurtavares/.cargo/registry/src/index.crates.io-6f17d22bba15001f/kaigan-0.2.4/src/lib.rs /Users/arthurtavares/.cargo/registry/src/index.crates.io-6f17d22bba15001f/kaigan-0.2.4/src/types/mod.rs /Users/arthurtavares/.cargo/registry/src/index.crates.io-6f17d22bba15001f/kaigan-0.2.4/src/types/prefix_string.rs /Users/arthurtavares/.cargo/registry/src/index.crates.io-6f17d22bba15001f/kaigan-0.2.4/src/types/prefix_vec.rs /Users/arthurtavares/.cargo/registry/src/index.crates.io-6f17d22bba15001f/kaigan-0.2.4/src/types/remainder_vec.rs
+
+/Users/arthurtavares/.cargo/registry/src/index.crates.io-6f17d22bba15001f/kaigan-0.2.4/src/lib.rs:
+/Users/arthurtavares/.cargo/registry/src/index.crates.io-6f17d22bba15001f/kaigan-0.2.4/src/types/mod.rs:
+/Users/arthurtavares/.cargo/registry/src/index.crates.io-6f17d22bba15001f/kaigan-0.2.4/src/types/prefix_string.rs:
+/Users/arthurtavares/.cargo/registry/src/index.crates.io-6f17d22bba15001f/kaigan-0.2.4/src/types/prefix_vec.rs:
+/Users/arthurtavares/.cargo/registry/src/index.crates.io-6f17d22bba15001f/kaigan-0.2.4/src/types/remainder_vec.rs:
